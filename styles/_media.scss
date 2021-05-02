@@ -1,4 +1,4 @@
-@media (max-width: 800px) and (min-width: 480px) {
+@media (max-width: 1000px) and (min-width: 480px) {
   #howToStart {
     .card {
       width: 13rem !important;
@@ -17,7 +17,7 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 480px) {
   #hero,
   #whyus {
     display: contents;
